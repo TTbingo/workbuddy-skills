@@ -213,8 +213,8 @@ allowed-tools: Read,Write,WebSearch,WebFetch
 
 ## 元信息
 
-- **版本**：2.11.0（2026-06-21）
-- **变更**：P0 改造——Description 改路由触发器 / SKILL.md 瘦身到 8KB / Gotchas 飞轮入 Skill
-- **下版本**：v2.12.0 P1 改造——方法论文件活化（快速调用矩阵）+ 约束表卡片化 + 案例砍到 5 条
+- **版本**：2.12.0（2026-06-21）
+- **变更**：P1 改造——方法论文件活化（4 份头部加「🚀 快速调用矩阵」）/ 约束表卡片化（新建 constraints-quick-ref.md）/ 案例从 14 砍到 5（新建 anti-patterns.md 收容已退休）
+- **下版本**：P2 待定（Evals + Scripts + luban 联动）
 - **作者**：WorkBuddy · 基于胡小群老师、昍爸、子贤老师、塞利格曼的公开方法论
 - **许可**：基于公开方法论，引用请注明原作者
