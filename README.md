@@ -159,7 +159,7 @@ k12-math-tutor/
 │   ├── extract-equation.py                # 关键词→考点→方法论匹配
 │   └── diff-case.py                       # 方法论偏离对比
 └── references/                            # 28 个参考资产
-    ├── constraints-quick-ref.md           # 16 条硬约束卡片
+    ├── constraints-quick-ref.md           # 17 条硬约束卡片
     ├── grade-quick-ref.md                 # 1-12 年级知识点 + K12 思想方法阶梯脉络
     ├── grade-curriculum-map.md            # 1-6 年级知识点与算理对照
     ├── curriculum-standard-2022.md        # 义务教育数学课标 2022 版
