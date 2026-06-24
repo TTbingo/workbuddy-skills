@@ -2,7 +2,7 @@
 
 > **不只做题，教你怎么教。** 把胡小群、昍爸、子贤老师三位数学教育实战派专家的辅导方法论，融合塞利格曼积极心理学，装进 AI Agent。
 
-[![Version](https://img.shields.io/badge/version-2.18.4-blue)](SKILL.md)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue)](SKILL.md)
 [![Coverage](https://img.shields.io/badge/coverage-K12%20%E5%B0%8F%E5%88%9D%E9%AB%98%E4%B8%80%E4%BD%93%E6%88%90-green)](references/grade-quick-ref.md)
 [![License](https://img.shields.io/badge/License-Personal%20Use-orange)](#许可)
 
@@ -49,7 +49,7 @@
 | 初中 | `junior-math-review-compendium.md` | 26 章中考总复习 |
 | 高中 | `hs-math-review-compendium.md` | 五册 18 章深度萃取（含课标要求） |
 
-### 错题本间隔复习五步法 (v2.18+)
+### 错题本间隔复习五步法
 
 新增错题难题管理模块，基于子贤老师三层诊断法（🟡基础技能 / 🟢前置知识 / 🔴数学思维），构建完整复习闭环：
 
@@ -188,32 +188,6 @@ k12-math-tutor/
     ├── diagnosis-card-template.html       # 诊断卡 HTML 模板
     └── tutor-log.md                       # 辅导记录模板
 ```
-
-## 版本演进
-
-**v2.18.4** — 清理冗余：删除低质量 `hs-math-curriculum-2017.md`（与 compendium 重叠），全部引用重定向至高中知识萃取。
-
-**v2.18.3** — 错题本间隔复习五步法：入库定周期→到期提醒→变式出题+降维→结果回写→掌握归档，INDEX 扩展三字段，与 P3 衔接。
-
-**v2.18.1** — latex-guide 定位重写：从"LaTeX 语法手册"转为"数学符号书写与排版规范"，LaTeX 退到附录做实现参考。
-
-**v2.17.0** — 高中知识体系入库：人教 A 版五册深度萃取（3085 行，18 章），K12 三层知识库闭环完成。
-
-**v2.16.0** — 初中知识体系入库：26 章中考总复习知识体系，补齐初中段核心知识库。
-
-**v2.14.0** — 内驱力 + 四层检验：新增生活场景匹配、内驱力三重境界、四层检验法（会做→会讲→会变→会出）。
-
-**v2.13.0** — Evals + 自动化：活体测试 + 3 个 Python 脚本 + 月度评估模板。
-
-**v2.12.0** — 方法论快速调用矩阵 + 微信双发 SOP + 案例精选瘦身。
-
-**v2.11.0** — 架构重构：SKILL.md 瘦身拆分到 references/，新增飞轮追加机制。
-
-**v2.4.0** — 融合塞利格曼积极教养：3P 诊断 + ABCDE + ACR + 乐观式批评。
-
-**v2.3.0** — 融合子贤老师方法论：积极心理学辅导话术 + 学习诊断 + 错题管理。
-
-> 完整版本历史见 [git log](https://github.com/TTbingo/k12-math-tutor/commits/master)。
 
 ## 许可
 

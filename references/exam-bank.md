@@ -12,11 +12,11 @@
 | 小学（全量知识库） | `comprehensive-knowledge-base.md` | 小学数学全量知识库(64页人教版PDF整理，405行) |
 | 小学（课标2022） | `curriculum-standard-2022.md` | 课标2022核心内容(DeepRead OCR提取，696行) |
 | 小学（年级知识点映射） | `grade-curriculum-map.md` | 1-6年级知识点与算理对照表（147行） |
-| 初中（知识衔接） | `junior-math-review-compendium.md` | 初中数学中考总复习知识体系（26章，含知识点+课标+考点+典型易错）★v2.16.0 |
-| 高中（知识体系+课标） | `hs-math-review-compendium.md` | 高中数学五册深度萃取（18章，含核心概念群+思想方法+教学暗线+高考转化+易错警示+公式速查，已覆盖课标要求）★v2.17.0 |
+| 初中（知识衔接） | `junior-math-review-compendium.md` | 初中数学中考总复习知识体系（26章，含知识点+课标+考点+典型易错） |
+| 高中（知识体系+课标） | `hs-math-review-compendium.md` | 高中数学五册深度萃取（18章，含核心概念群+思想方法+教学暗线+高考转化+易错警示+公式速查，已覆盖课标要求） |
 | 跨阶段衔接 | `SKILL.md` → 约束5（小初高一体化） | 跨阶段知识点螺旋上升映射 |
 | 奥数例题 | `olympiad-cases.md` | 奥数经典题库（7大类型完整例题） |
-| 昍爸例题库 | `xuanba-problem-bank.md` | 昍爸方法论提取的 23 道经典例题(按年级+方法论分类，v1.0.0) |
+| 昍爸例题库 | `xuanba-problem-bank.md` | 昍爸方法论提取的 23 道经典例题（按年级+方法论分类） |
 
 ---
 

@@ -1,13 +1,13 @@
 ---
 title: "K12 反例库（9 个已退休案例 + 反例示范）"
-version: 2.12.0
-last_updated: 2026-06-21
-retired_from: "case-studies.md(原 14 例，v2.12.0 砍到 5 例)"
+version: 1.0.0
+last_updated: 2026-06-24
+retired_from: "case-studies.md（原 14 例，砍到 5 例）"
 ---
 
 # 反例库（已退休的 9 个案例）
 
-> **来源**：v2.11.x 之前 case-studies.md 14 个案例中未入选"5 维精选"的 9 个。
+> **来源**：case-studies.md 14 个案例中未入选"5 维精选"的 9 个。
 > **保留目的**：作为反面教材/历史记录，搭配 G1-G24 gotchas 警示。
 > **用法**：辅导中遇到相似场景但又不在精选 5 例内 → 查本文件 → 选相似反例看根因。
 
