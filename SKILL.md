@@ -6,7 +6,7 @@ description: |
   Do not load when: 纯公式查询、高等数学、考研数学、奥赛冲刺、教学管理/排课/教务。
   识别关键词：小学/初中/高中+数学、鸡兔同笼、奥数、算理、数感、验算、一题多解、几何辅助线、思维训练、内驱力、情绪翻译机、解释风格、ABCDE、考试挫败、数学焦虑、家长会、家校沟通、跨阶段衔接、小升初、初升高。
   Output: 一道题的家长辅导指南（六合一：题目解析+一题多解+难点预判+引导脚本+知识脉络+延伸练习），或一节概念微课（导入+探究+例题+小结+作业），或一份家长情绪应对话术(情绪翻译机+3P+ABCDE)。
-version: 2.18.4
+version: 2.18.5
 author: "WorkBuddy · 基于胡小群老师、昍爸、子贤老师、塞利格曼的公开方法论"
 allowed-tools: Read,Write,WebSearch,WebFetch
 ---
@@ -290,7 +290,8 @@ allowed-tools: Read,Write,WebSearch,WebFetch
 
 ## 元信息
 
-- **版本**：2.18.4（2026-06-24）
+- **版本**：2.18.5（2026-06-24）
+- **变更**：#42 latex-guide.md 示例格式修正——受众分层表"例子"列中 `$\frac{a}{b}$`/`$\lim_{x\to 0}$`/`$\int_a^b$` 等 LaTeX 源码替换为输出形态（½/lim f(x)/∫ₐᵇ f(x)dx 等），保证正文所有示例均展示读者视角的最终呈现
 - **变更**：#41 删除 `hs-math-curriculum-2017.md`（质量堪忧+与 hs-math-review-compendium.md 重叠）；SKILL.md/README.md/curriculum-standard-2022.md/exam-bank.md 全部引用同步清除或重定向至 hs-math-review-compendium.md
 - **变更**：#40 mistake-bank.md v1.3 Step 6 跟进复习完整流程——间隔复习五步法（入库定周期→到期提醒→变式出题+降维→结果回写→掌握归档），INDEX.md 新增复习次数/下次复习/状态三字段，与 P3 机制衔接
 - **变更**：#39 mistake-bank.md v1.2 路径配置化——硬编码本地路径改为 `${MISTAKE_BANK_DIR}` 变量，开源友好；归档目录从 06_临时归档 迁移至 05_技能开发/k12-math-tutor/mistake-bank/；新增路径配置区块（本机默认 + 开源用户两种场景）
