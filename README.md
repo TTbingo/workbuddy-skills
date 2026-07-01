@@ -2,7 +2,7 @@
 
 > **不只做题，教你怎么教。** 把胡小群、昍爸、子贤老师三位数学教育实战派专家的辅导方法论，融合塞利格曼积极心理学，装进 AI Agent。
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue)](SKILL.md)
+[![Version](https://img.shields.io/badge/version-1.5.0-blue)](SKILL.md)
 [![Coverage](https://img.shields.io/badge/coverage-K12%20%E5%B0%8F%E5%88%9D%E9%AB%98%E4%B8%80%E4%BD%93%E6%88%90-green)](references/grade-quick-ref.md)
 [![License](https://img.shields.io/badge/License-Personal%20Use-orange)](#许可)
 
@@ -72,7 +72,7 @@
 
 ### 飞轮进化机制
 
-每次真实辅导中遇到失败模式 → 自动追加到 `gotchas.md`(G1-G34 + A1-A5) → 升级约束规则 → Skill 越用越准。不是静态文档，是活的经验库。
+每次真实辅导中遇到失败模式 → 自动追加到 `gotchas.md`(G1-G37，35条有效，G8/G9已淘汰) → 升级约束规则 → Skill 越用越准。不是静态文档，是活的经验库。
 
 ## 快速开始
 
@@ -185,7 +185,7 @@ k12-math-tutor/
     ├── xuanba-problem-bank.md             # 经典例题库
     ├── life-scene-math.md                 # 生活场景与数学对照
     ├── olympiad-cases.md                  # 奥数经典题库
-    ├── gotchas.md                         # 失败模式库 G1-G29
+    ├── gotchas.md                         # 失败模式库 G1-G37（35条有效） + A1-A5
     ├── case-studies.md                    # 精选案例
     ├── anti-patterns.md                   # 已退休反例
     ├── latex-guide.md                     # 数学符号书写与排版规范

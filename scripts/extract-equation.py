@@ -127,7 +127,7 @@ def main():
 
     except ImportError:
         print('\n[WARN] 未安装 Pillow，跳过图片预处理')
-        print('  安装: pip install Pillow')
+        print('  安装: pip install Pillow（本脚本的可选依赖，仅图片预处理需要）')
 
     # OCR 部分（框架）
     print('\n[OCR 识别]')

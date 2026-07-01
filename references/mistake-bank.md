@@ -286,7 +286,7 @@
 
 1. **生成 Markdown 版** → 存入 `${MISTAKE_BANK_DIR}/YYYY-MM-DD-题目关键词.md`
 2. **生成 HTML 版** → 同上目录，`.html` 后缀
-3. **发送 HTML 到微信**（deliver_attachments）
+3. **发送 HTML**（用文件附件方式，非 WorkBuddy 用户：将 HTML 文件作为独立附件发送即可）
 
 ### Step 6：跟进复习（间隔复习五步法）
 
